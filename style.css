@@ -72,3 +72,14 @@ h1 { margin: 0 0 8px; }
 
 .btn-reset { background: #475569; color: #fff; }
 .btn-reset:hover { background: #334155; } 
+
+.counter.inc {
+  color: #22c55e; 
+  transition: color 0.3s;
+}
+
+.counter.dec {
+  color: #ef4444; 
+  transition: color 0.3s;
+}
+
